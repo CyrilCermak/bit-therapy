@@ -1,8 +1,14 @@
 "about.leaveReview" = "Залишити відгук";
-"about.leaveReviewMessage" = "Підтримайте нас безкоштовно, залишивши відгук! \n⭐️⭐️⭐️⭐️⭐️";
+"about.leaveReviewMessage" = "Підтримайте нас безкоштовно, залишивши відгук!\n⭐️⭐️⭐️⭐️⭐️";
 "about.privacyPolicy" = "Політика конфіденційності";
 "about.termsAndConditions" = "Terms and Conditions";
-"appName" = "Настільні улюбленці";
+"analytics.consentTitle" = "Допоможіть покращити Pets Therapy";
+"analytics.consentMessage" = "Ми хотіли б збирати анонімні дані про використання, щоб допомогти покращити додаток. Це включає, які тварини найпопулярніші та як використовуються функції.\n\nОсобиста інформація не збирається, і ви можете змінити цей параметр у будь-який час у налаштуваннях додатку.";
+"analytics.consentAccept" = "Дозволити аналітику";
+"analytics.consentDecline" = "Ні, дякую";
+"analytics.privacyNote" = "Ваша конфіденційність важлива для нас. Весь збір даних анонімний і допомагає нам покращити додаток.";
+"analytics.settingsToggleLabel" = "Аналітика додатку (анонімна)";
+"appName" = "Pets Therapy";
 "backgrounds.BackgroundMountainDay" = "Гора, денна";
 "backgrounds.BackgroundMountainDynamic" = "Гора";
 "backgrounds.BackgroundMountainNight" = "Гора, нічна";
@@ -94,6 +100,7 @@
 "settings.statusBarIconEnabled" = "Показувати в рядку стану";
 "settings.useImageInterpolation" = "Інтерполяція зображення";
 "shop.loading" = "Завантаження...";
+"shop.supporter" = "Підтримувач";
 "shop.thankYou" = "Дякуємо за вашу підтримку! ❤️";
 "shop.restore" = "Відновити покупки";
 "shop.becomeSupporter" = "Станьте підтримувачем";
@@ -184,6 +191,7 @@
 "species.name.raiden" = "Рейден";
 "species.name.keqing" = "Кецін";
 "species.name.ape" = "Мавпа";
+"species.name.ape_chef" = "Мавпа Кухар";
 "species.name.betta" = "Бетта";
 "species.name.cat" = "Рудий кіт";
 "species.name.cat_black" = "Чорний кіт";
@@ -247,16 +255,7 @@
 "tag.wild-animals" = "🌲 Дикі Тварини";
 "tag.characters" = "🎮 Персонажі";
 "tag.memes-fun" = "🎭 Меми та Веселощі";
-"urls.appStore" = "https://apps.apple.com/app/id1575542220";
-"urls.customPetsDocs" = "https://curzel.it/bit-therapy/custompets";
-"urls.discord" = "https://discord.gg/8tj28beNPH";
-"urls.donations" = "https://www.patreon.com/urinamara";
-"urls.github" = "https://github.com/curzel-it/bit-therapy";
-"urls.privacy" = "https://curzel.it/privacy.html";
-"urls.tncs" = "https://curzel.it/terms-and-conditions.html";
-"urls.reddit" = "https://www.reddit.com/r/DesktopPets/";
-"urls.twitter" = "https://twitter.com/HiddenMugs";
-"urls.youtube" = "https://www.youtube.com/@HiddenMugs";
+
 "yes" = "Так";
 "youtube.cybertruckTitle" = "Новый улюбленець: Кібертранспортер!";
 "youtube.cybertruckMessage" = "У всій своїй полігональній красі ви навіть не помітите, що це піксельний арт! На знак подяки, чому б вам не переглянути супер моторошне відео з Кібертранспортом у головній ролі на моєму каналі на YouTube?";

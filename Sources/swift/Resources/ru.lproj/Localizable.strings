@@ -2,7 +2,13 @@
 "about.leaveReviewMessage" = "Поддержите нас бесплатно, оставив отзыв! \N⭐️⭐️⭐️⭐️⭐️";
 "about.privacyPolicy" = "Политика конфиденциальности";
 "about.termsAndConditions" = "Terms and Conditions";
-"appName" = "Настольные питомцы";
+"analytics.consentTitle" = "Помочь улучшить Pets Therapy";
+"analytics.consentMessage" = "Мы хотели бы собирать анонимные данные об использовании, чтобы помочь улучшить приложение. Это включает в себя, какие питомцы наиболее популярны и как используются функции.\n\nЛичная информация не собирается, и вы можете изменить этот параметр в любое время в настройках приложения.";
+"analytics.consentAccept" = "Разрешить аналитику";
+"analytics.consentDecline" = "Нет, спасибо";
+"analytics.privacyNote" = "Ваша конфиденциальность важна для нас. Все сбор данных анонимен и помогает нам улучшить приложение.";
+"analytics.settingsToggleLabel" = "Аналитика приложения (анонимная)";
+"appName" = "Pets Therapy";
 "backgrounds.BackgroundMountainDay" = "Гора, дневная";
 "backgrounds.BackgroundMountainDynamic" = "Гора";
 "backgrounds.BackgroundMountainNight" = "Гора, ночная";
@@ -94,7 +100,8 @@
 "settings.statusBarIconEnabled" = "Показывать в строке состояния";
 "settings.useImageInterpolation" = "Интерполяция изображения";
 "shop.loading" = "Загрузка...";
-"shop.thankYou" = "Спасибо за вашу поддержку! ❤️";
+"shop.supporter" = "Сторонник";
+"shop.thankYou" = "Спасибо за поддержку! ❤️";
 "shop.restore" = "Восстановить покупки";
 "shop.becomeSupporter" = "Станьте поддерживающим";
 "shop.pleeeease" = "Пожалуйста, поддержите нас";
@@ -164,7 +171,8 @@
 "species.name.raiden" = "Рейден";
 "species.name.keqing" = "Кэцин";
 "species.name.ape" = "Обезьяна";
-"species.name.betta" = "Бетта";
+"species.name.ape_chef" = "Обезьяна Повар";
+"species.name.betta" = "Петушок";
 "species.name.cat" = "Рыжий кот";
 "species.name.cat_black" = "Черный кот";
 "species.name.cat_blue" = "Голубой кот";
@@ -227,16 +235,7 @@
 "tag.wild-animals" = "🌲 Дикие Животные";
 "tag.characters" = "🎮 Персонажи";
 "tag.memes-fun" = "🎭 Мемы и Веселье";
-"urls.appStore" = "https://apps.apple.com/app/id1575542220";
-"urls.customPetsDocs" = "https://curzel.it/bit-therapy/custompets";
-"urls.discord" = "https://discord.gg/8tj28beNPH";
-"urls.donations" = "https://www.patreon.com/urinamara";
-"urls.github" = "https://github.com/curzel-it/bit-therapy";
-"urls.privacy" = "https://curzel.it/privacy.html";
-"urls.tncs" = "https://curzel.it/terms-and-conditions.html";
-"urls.reddit" = "https://www.reddit.com/r/DesktopPets/";
-"urls.twitter" = "https://twitter.com/HiddenMugs";
-"urls.youtube" = "https://www.youtube.com/@HiddenMugs";
+
 "yes" = "Да";
 "youtube.cybertruckTitle" = "Новый питомец: Кибертранспортер!";
 "youtube.cybertruckMessage" = "Во всей своей полигональной красоте вы даже не заметите, что это пиксельный арт! В знак благодарности, почему бы вам не посмотреть супер жуткое видео с Кибертранспортом в главной роли на моем канале на YouTube?";

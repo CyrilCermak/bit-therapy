@@ -2,7 +2,13 @@
 "about.leaveReviewMessage" = "Soutenez-nous en laissant une belle critique!\n⭐️⭐️⭐️⭐️⭐️";
 "about.privacyPolicy" = "Politique de confidentialité";
 "about.termsAndConditions" = "Terms and Conditions";
-"appName" = "Desktop Pets";
+"analytics.consentTitle" = "Aider à Améliorer Pets Therapy";
+"analytics.consentMessage" = "Nous aimerions collecter des données d'utilisation anonymes afin d'améliorer l'application. Cela inclut les animaux les plus populaires et la manière dont les fonctionnalités sont utilisées. Aucune information personnelle n'est collectée et vous pouvez modifier ce paramètre à tout moment dans les préférences de l'application.";
+"analytics.consentAccept" = "Autoriser Analytics";
+"analytics.consentDecline" = "Non Merci";
+"analytics.privacyNote" = "Votre vie privée nous tient à cœur. Toute la collecte de données est anonyme et nous permet d'améliorer l'application.";
+"analytics.settingsToggleLabel" = "Analytics de l'App (Anonyme)";
+"appName" = "Pets Therapy";
 "backgrounds.BackgroundMountainDay" = "Montagne, Jour";
 "backgrounds.BackgroundMountainDynamic" = "Montagne";
 "backgrounds.BackgroundMountainNight" = "Montagne, Nuit";
@@ -94,6 +100,7 @@
 "settings.statusBarIconEnabled" = "Afficher dans la barre d'état";
 "settings.useImageInterpolation" = "Interpolation d'images";
 "shop.loading" = "Chargement...";
+"shop.supporter" = "Supporteur";
 "shop.thankYou" = "Merci pour votre soutien ! ❤️";
 "shop.restore" = "Restaurer les achats";
 "shop.becomeSupporter" = "Devenez un supporter";
@@ -164,6 +171,7 @@
 "species.name.raiden" = "Raiden";
 "species.name.keqing" = "Keqing";
 "species.name.ape" = "Gorille";
+"species.name.ape_chef" = "Gorille Chef";
 "species.name.betta" = "Betta";
 "species.name.cat" = "Chat Roux";
 "species.name.cat_black" = "Chat Noir";
@@ -226,16 +234,7 @@
 "tag.wild-animals" = "🌲 Animaux Sauvages";
 "tag.characters" = "🎮 Personnages";
 "tag.memes-fun" = "🎭 Mèmes et Fun";
-"urls.appStore" = "https://apps.apple.com/app/id1575542220";
-"urls.customPetsDocs" = "https://curzel.it/bit-therapy/custompets";
-"urls.discord" = "https://discord.gg/8tj28beNPH";
-"urls.donations" = "https://www.patreon.com/urinamara";
-"urls.github" = "https://github.com/curzel-it/bit-therapy";
-"urls.privacy" = "https://curzel.it/privacy.html";
-"urls.tncs" = "https://curzel.it/terms-and-conditions.html";
-"urls.reddit" = "https://www.reddit.com/r/DesktopPets/";
-"urls.twitter" = "https://twitter.com/HiddenMugs";
-"urls.youtube" = "https://www.youtube.com/@HiddenMugs";
+
 "yes" = "Oui";
 "youtube.cybertruckTitle" = "Nouvel Animal de Compagnie : Cybertruck !";
 "youtube.cybertruckMessage" = "Dans toute sa gloire polygonale, vous ne remarquerez même pas que c'est de l'art en pixel !\nEn guise de remerciement, pourquoi ne pas regarder une vidéo super gênante avec le Cybertruck sur ma chaîne YouTube ?";

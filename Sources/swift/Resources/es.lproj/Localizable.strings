@@ -2,7 +2,13 @@
 "about.leaveReviewMessage" = "¡Apóyanos gratis dejando un comentario!\n⭐️⭐️⭐️⭐️⭐️";
 "about.privacyPolicy" = "Política de privacidad";
 "about.termsAndConditions" = "Terms and Conditions";
-"appName" = "Desktop Pets";
+"analytics.consentTitle" = "Ayuda a mejorar la terapia asistida con animales.";
+"analytics.consentMessage" = "Nos gustaría recopilar datos de uso anónimos para ayudar a mejorar la aplicación. Esto incluye información sobre qué mascotas son más populares y cómo se utilizan las funciones. No se recopila información personal y puedes cambiar esta configuración en cualquier momento en el apartado de preferencias de la aplicación.";
+"analytics.consentAccept" = "Permitir Analytics";
+"analytics.consentDecline" = "No Gracias";
+"analytics.privacyNote" = "Tu privacidad es importante para nosotros. La recopilación de datos es anónima y nos ayuda a mejorar la aplicación.";
+"analytics.settingsToggleLabel" = "Analytics de la App (Anónimo)";
+"appName" = "Pets Therapy";
 "backgrounds.BackgroundMountainDay" = "Montaña, Dia";
 "backgrounds.BackgroundMountainDynamic" = "Montaña";
 "backgrounds.BackgroundMountainNight" = "Montaña, Noche";
@@ -94,6 +100,7 @@
 "settings.statusBarIconEnabled" = "Mostrar en la barra de estado";
 "settings.useImageInterpolation" = "Interpolación de imágenes";
 "shop.loading" = "Cargando...";
+"shop.supporter" = "Seguidor";
 "shop.thankYou" = "¡Gracias por tu apoyo! ❤️";
 "shop.restore" = "Restaurar compras";
 "shop.becomeSupporter" = "Hazte un/a patrocinador/a";
@@ -163,6 +170,7 @@
 "species.name.raiden" = "Raiden";
 "species.name.keqing" = "Keqing";
 "species.name.ape" = "Mono";
+"species.name.ape_chef" = "Mono Chef";
 "species.name.betta" = "Betta";
 "species.name.cat" = "Gato Rojo";
 "species.name.cat_black" = "Gato negro";
@@ -225,16 +233,7 @@
 "tag.wild-animals" = "🌲 Animales Salvajes";
 "tag.characters" = "🎮 Personajes";
 "tag.memes-fun" = "🎭 Memes y Diversión";
-"urls.appStore" = "https://apps.apple.com/app/id1575542220";
-"urls.customPetsDocs" = "https://curzel.it/bit-therapy/custompets";
-"urls.discord" = "https://discord.gg/8tj28beNPH";
-"urls.donations" = "https://www.patreon.com/urinamara";
-"urls.github" = "https://github.com/curzel-it/bit-therapy";
-"urls.privacy" = "https://curzel.it/privacy.html";
-"urls.tncs" = "https://curzel.it/terms-and-conditions.html";
-"urls.reddit" = "https://www.reddit.com/r/DesktopPets/";
-"urls.twitter" = "https://twitter.com/HiddenMugs";
-"urls.youtube" = "https://www.youtube.com/@HiddenMugs";
+
 "yes" = "Sí";
 "youtube.cybertruckTitle" = "Nueva Mascota: Cybertruck!";
 "youtube.cybertruckMessage" = "En toda su gloria poligonal, ¡ni siquiera notarás que es arte en píxeles!\nComo agradecimiento, ¿por qué no ves un video súper vergonzoso protagonizado por el Cybertruck en mi canal de YouTube?";
